@@ -1,0 +1,2 @@
+(1) Remove Dulicate Elements from Sorted Array
+(2)Rotate Array

@@ -26,7 +26,7 @@
 
 import java.util.*;
 
-public class remove_duplicate_from_sorted_array {
+public class first_1_remove_duplicate_from_sorted_array {
 
     static int first_approach(int arr[]){
         HashSet<Integer> set = new HashSet<>();
