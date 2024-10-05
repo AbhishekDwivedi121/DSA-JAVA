@@ -1,2 +1,4 @@
 (1) Remove Dulicate Elements from Sorted Array
 (2)Rotate Array
+(3) moves zeros to end
+(4) Longest Subarray With K sum
