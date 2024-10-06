@@ -3,3 +3,4 @@
 (3) moves zeros to end
 (4) Longest Subarray With K sum
 (5) two Sum
+(6) Sort 0, 1 & 2
