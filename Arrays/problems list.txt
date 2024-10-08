@@ -5,3 +5,4 @@
 (5) two Sum
 (6) Sort 0, 1 & 2
 (7) Majority Elements
+(8) Maximum Sum of Subarray
