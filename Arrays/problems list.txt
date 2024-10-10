@@ -7,3 +7,4 @@
 (7) Majority Elements
 (8) Maximum Sum of Subarray
 (9) Rearrange Elements by Sign
+(10) best time to buy and sell Stock
