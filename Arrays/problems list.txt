@@ -9,3 +9,4 @@
 (9) Rearrange Elements by Sign
 (10) best time to buy and sell Stock
 (11) Next Permutation
+(12) Longest Consecutive Sequence
